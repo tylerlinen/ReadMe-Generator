@@ -35,8 +35,8 @@ const questions = [{
 },
 {
     type: "input",
-    name: "name",
-    message: "What is your name?"
+    name: "license",
+    message: "List any Licenses? go to https://choosealicense.com/"
 
 },
 {
