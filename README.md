@@ -1,20 +1,20 @@
-# ME
+# Read Me Generator
     ## Description:
-    > A
+    > Creates read me with user input for project created.
 
     ## Installation:
-    > B
+    > Run through terminal with node.js.  Make sure to have correct npm packages.
 
     ## Usage:
-    > C
+    > To make a read me for your own projects.
 
     ## Credits:
-    > D
+    > Tyler
     
     ## License:
-    > E
+    > None
     
     ## Contribution:
-    > F
+    > None
     
   
